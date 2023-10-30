@@ -22,6 +22,12 @@ Welcome to my GitHub portfolio! This repository showcases some of my projects an
 - Technologies Used: List the technologies, languages, and tools used in the project.
 - GitHub Repository: [Link to the GitHub repository](Link to GitHub Repo)
 
+## Certificates
+
+- Some certificates I got from courses in SoftUni.
+
+  ![HTML & CSS September 2023](https://ibb.co/dJkKCQn)
+
 ## Contributions
 
 Here are some of my notable contributions to open-source projects:
