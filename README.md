@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! This repository showcases some of my projects an
 
 - Some certificates I got from courses in SoftUni.
 
-  ![HTML & CSS September 2023 Certificate]([https://ibb.co/dJkKCQn](https://ibb.co/dJkKCQn"><img src="https://i.ibb.co/dJkKCQn/HTML-CSS-September-2023-Certificate.png))
+  ![HTML & CSS September 2023 Certificate](https://i.ibb.co/dJkKCQn/HTML-CSS-September-2023-Certificate.png)
 
 ## Contributions
 
