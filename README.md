@@ -1,5 +1,5 @@
 # Portfolio
-These are my projects :D
+This is my portfolio. Enjoy :)
 
 # Your Name's Portfolio
 
